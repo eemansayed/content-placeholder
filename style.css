@@ -5,6 +5,7 @@
 }
 
 body {
+  background-color: #ecf0f1;
   font-family: 'Roboto', sans-serif;
   display: flex;
   flex-direction: column;
