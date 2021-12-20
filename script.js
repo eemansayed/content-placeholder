@@ -6,3 +6,4 @@ const name = document.getElementById("name");
 const date = document.getElementById("date");
 
 const animated_bgs = document.querySelectorAll(".animated-bg");
+const animated_bgs_text = document.querySelectorAll(".animated-bg-text");
